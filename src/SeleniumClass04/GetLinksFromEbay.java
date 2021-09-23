@@ -23,7 +23,7 @@ public class GetLinksFromEbay {
             if(!linkText.isEmpty()) {
                 System.out.println(linkText + "        " + fullLink);
             }
-        }asdadmf'madg;ag'lMFa
+        }
     }
 }
 
